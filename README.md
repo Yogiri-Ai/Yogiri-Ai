@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Yogiri-Ai
+# 👋 About Me:
+Hey there! 👋 I'm Fakhri Dinal Maulana Putra, a passionate Machine Learning Engineering student at Universitas Siliwangi. 💻
+By day, I continuously explore new technologies, dive deeper into machine learning systems, and experiment with data-driven solutions. 🌌 I enjoy learning beyond the classroom — from algorithms and model building to understanding how intelligent systems actually work in the real world.
+My journey in technology started back in Darussalam Ciamis Senior High School, where my curiosity about programming and innovation first began to grow. Since then, I've been driven by one goal: to build impactful technology that solves real problems.
+Let’s connect and embark on an exciting journey through the ever-evolving universe of AI and technology! 🚀
 
 ## 💻 Tech Stack
 
